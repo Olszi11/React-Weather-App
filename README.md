@@ -6,5 +6,5 @@ Project is based on 'Open Weather Map' API, available under link https://openwea
 
 Enter the city name or name city and ISO 3166 country code, you can check weather in the city you are looking for. 
 
-In addition, the RWD approach (@media rules) was used to make the application display well on every screen.
+In addition, the RWD approach (media rules) was used to make the application display well on every screen.
 
